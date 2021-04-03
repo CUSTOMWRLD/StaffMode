@@ -1,0 +1,9 @@
+name: CustomStaffMode
+version: ${project.version}
+main: com.customwrld.customstaffmode.CustomStaffMode
+api-version: 1.16
+softdepend:
+  - CustomLib
+  - CommandAPI
+authors: [ FreakingChicken ]
+description: Staff mode for Customwrld
